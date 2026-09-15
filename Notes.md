@@ -61,3 +61,9 @@
 - learn how to declare it in multiple situation
 - especially how to use expressive means we can assign value to a variable and get return it.
 - also in kotlin we can assign whole if block without any curly braces.
+---
+## 7th lesson
+> When
+- learn when we can use 'when' expression 
+- it is usefully if we have lots of condition and want to make the code easier to read.
+---
