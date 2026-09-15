@@ -2,7 +2,7 @@ fun main(){
     var greeting = "Hello"
     var name = "devson1024"
 
-
+    // finding character on particular index
     println("'" + name[5]+ "'") // n
 
     // String length
