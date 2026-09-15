@@ -51,8 +51,13 @@
 ---
 ## 5th lesson
 > Booleans 
-- this is the present learning lesson for now
 - learn about the `true` and `false` importance again
 - learn how to use it like proper declaration
 - learn about the `Boolean Expression` which simply return `true` or `false` using `comparison operators`.
 ---
+## 6th lesson
+> If...Else
+- learn about the condition in kotlin on how can we use it in if, else, else...if and its use in expressions .
+- learn how to declare it in multiple situation
+- especially how to use expressive means we can assign value to a variable and get return it.
+- also in kotlin we can assign whole if block without any curly braces.
