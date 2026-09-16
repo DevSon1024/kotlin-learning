@@ -67,3 +67,10 @@
 - learn when we can use 'when' expression 
 - it is usefully if we have lots of condition and want to make the code easier to read.
 ---
+## 8th lesson
+> While Loop
+- learn what are the loops and how it works first is while loop
+- it rotats the value till the condition become false
+- also learn about do..while loop
+- this loop execute the code block once either condition is tru or not
+- means print first value even if the condition is false
