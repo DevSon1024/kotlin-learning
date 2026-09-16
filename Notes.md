@@ -80,3 +80,9 @@
 - FOA learn about the break statement which use for breaking the loop after specific condition become true
 - then continue which will be used for skipping particular condition in the loop.
 ---
+## 10th lesson
+> Arrays
+- learn about we can add multiple values in a container and give to a variable and call it array
+- then how we can access, replace and check particular values in array with indexing and `size` property
+- then finally how can we access every element with upcoming `for` loop.
+---
