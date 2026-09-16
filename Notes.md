@@ -74,3 +74,9 @@
 - also learn about do..while loop
 - this loop execute the code block once either condition is tru or not
 - means print first value even if the condition is false
+---
+## 9th lesson 
+> Break & continue
+- FOA learn about the break statement which use for breaking the loop after specific condition become true
+- then continue which will be used for skipping particular condition in the loop.
+---
