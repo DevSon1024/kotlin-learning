@@ -86,3 +86,9 @@
 - then how we can access, replace and check particular values in array with indexing and `size` property
 - then finally how can we access every element with upcoming `for` loop.
 ---
+## 11th lesson
+> For Loop
+- learn how to use for loop for arrays
+- we have to use 'in' operator to loop through elements 
+- not just strings array we can use it for number and other datatypes as well.
+---
