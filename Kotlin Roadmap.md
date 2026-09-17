@@ -17,7 +17,7 @@
 - [x] Kotlin Break/Continue
 - [x] Kotlin Arrays
 - [x] Kotlin For Loop
-- [] Kotlin Ranges
+- [x] Kotlin Ranges
 - [] Kotlin Functions
 
 > Kotlin Classes

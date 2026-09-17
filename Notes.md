@@ -92,3 +92,8 @@
 - we have to use 'in' operator to loop through elements 
 - not just strings array we can use it for number and other datatypes as well.
 ---
+## 12th lesson
+> Ranges
+- learn how to write a range in for loop using '..'.
+- e.g.: '1..10' prints numbers from 1 to 10
+- with using break and continue
