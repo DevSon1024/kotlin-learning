@@ -97,3 +97,11 @@
 - learn how to write a range in for loop using '..'.
 - e.g.: '1..10' prints numbers from 1 to 10
 - with using break and continue
+## 13th lesson
+> Functions
+- learn what functions are although using it from the start of kotlin
+- called a function
+- learn about single and multiple parameters
+- learn about returning values
+- how can we create a function with parameters in a single line with `=` operator instead of `return`
+---

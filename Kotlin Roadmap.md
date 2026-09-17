@@ -18,7 +18,7 @@
 - [x] Kotlin Arrays
 - [x] Kotlin For Loop
 - [x] Kotlin Ranges
-- [] Kotlin Functions
+- [x] Kotlin Functions
 
 > Kotlin Classes
 - [] Kotlin OOP
