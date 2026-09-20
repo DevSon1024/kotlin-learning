@@ -128,3 +128,8 @@
 - learn how can we define the object more easier with the help of constructors
 - we just have to remember to specify the type of the property/variable.
 ---
+## 17th lesson
+> Class Function
+- learn about the class function it is basically function inside the classes
+- and we can access these functions with all of the properties.
+- add a functio which also have the maxSpeed parameters to access it through object just like normal functinos.
