@@ -21,8 +21,8 @@
 - [x] Kotlin Functions
 
 > Kotlin Classes
-- [] Kotlin OOP
-- [] Kotlin Classes/Objects
-- [] Kotlin Constructors
+- [x] Kotlin OOP
+- [x] Kotlin Classes/Objects
+- [x] Kotlin Constructors
 - [] Kotlin Class Functions
 - [] Kotlin Inheritance

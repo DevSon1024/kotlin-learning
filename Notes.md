@@ -123,3 +123,8 @@
 - but as the class properties are blank we assign some values with dot(.) syntax e.g.: c1.brand = "TATA".
 - and with that we can create and access multiple objects with same properties
 ---
+## 16th lesson
+> Constrictors
+- learn how can we define the object more easier with the help of constructors
+- we just have to remember to specify the type of the property/variable.
+---
