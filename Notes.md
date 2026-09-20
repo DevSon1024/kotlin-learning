@@ -111,3 +111,15 @@
 > OOP
 - learn what is OOP and what are the class and objects
 - we have to use them for re-using multiple methods and functions around the code.
+---
+## 15th lesson
+> Classes
+- learn what classes are a container where we can put our things properly
+- means we can add multiple properties of specific class for reusing it in future
+- for example we create a class named as car and added properties (variables) like brand, model and year.
+> Objects
+- we can access the properties by converting that class into object
+- we create a object variable as c1 and c2 to access the properties of the class
+- but as the class properties are blank we assign some values with dot(.) syntax e.g.: c1.brand = "TATA".
+- and with that we can create and access multiple objects with same properties
+---
