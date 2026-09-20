@@ -124,7 +124,7 @@
 - and with that we can create and access multiple objects with same properties
 ---
 ## 16th lesson
-> Constrictors
+> Constructors
 - learn how can we define the object more easier with the help of constructors
 - we just have to remember to specify the type of the property/variable.
 ---
@@ -132,4 +132,8 @@
 > Class Function
 - learn about the class function it is basically function inside the classes
 - and we can access these functions with all of the properties.
-- add a functio which also have the maxSpeed parameters to access it through object just like normal functinos.
+- add a function which also have the maxSpeed parameters to access it through object just like normal functions.
+---
+## 18th lesson
+> Inheritance
+- learn inheritance to inherit other 'open' parent class properties and functions to sub/child class

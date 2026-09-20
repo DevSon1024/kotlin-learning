@@ -25,4 +25,4 @@
 - [x] Kotlin Classes/Objects
 - [x] Kotlin Constructors
 - [x] Kotlin Class Functions
-- [] Kotlin Inheritance
+- [x] Kotlin Inheritance
