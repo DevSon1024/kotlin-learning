@@ -4,6 +4,7 @@
 - i am learning the basic again for the korling language and first i am going to try tutorials which are available at [w3schools](https://www.w3schools.com/kotlin/) site.
 - just like a beginner learns everything 
 
+# Tutorial
 ## First Lesson
 > Introduction
 - available at Main.kt
@@ -97,6 +98,7 @@
 - learn how to write a range in for loop using '..'.
 - e.g.: '1..10' prints numbers from 1 to 10
 - with using break and continue
+---
 ## 13th lesson
 > Functions
 - learn what functions are although using it from the start of kotlin
@@ -105,3 +107,7 @@
 - learn about returning values
 - how can we create a function with parameters in a single line with `=` operator instead of `return`
 ---
+## 14the lesson
+> OOP
+- learn what is OOP and what are the class and objects
+- we have to use them for re-using multiple methods and functions around the code.
