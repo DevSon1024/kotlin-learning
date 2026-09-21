@@ -149,3 +149,6 @@
   - then how to declare mutable and locked lists that can be editable and read-only.
   - then lear more list functions like count(), first(), last(), add() and remove().
   - also learn about in operator to check about values/item available or not.
+- Set
+  - it has same functions as List but we cannot access duplicate value in Set
+  - also we cannot access the items in set as they are unordered.

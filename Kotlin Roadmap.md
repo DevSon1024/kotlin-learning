@@ -32,7 +32,7 @@
 
 - [] Collection
   - [x] List
-  - [] Set
+  - [x] Set
   - [] Map
 - [] Control Flow
 - [] Functions
