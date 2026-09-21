@@ -1,7 +1,7 @@
 # WorkFlow of learning kotlin
 
-### Hey, Its Devson1024 and this is my journsy of learning Kotlin language for interview preparation again.
-- i am learning the basic again for the korling language and first i am going to try tutorials which are available at [w3schools](https://www.w3schools.com/kotlin/) site.
+### Hey, Its Devson1024 and this is my journey of learning Kotlin language for interview preparation again.
+- i am learning the basic again for the kotlin language and first i am going to try tutorials which are available at [w3schools](https://www.w3schools.com/kotlin/) and [Official Kotlin Documentation](https://kotlinlang.org/docs/kotlin-tour-welcome.html) site.
 - just like a beginner learns everything 
 
 # Tutorial
@@ -137,3 +137,15 @@
 ## 18th lesson
 > Inheritance
 - learn inheritance to inherit other 'open' parent class properties and functions to sub/child class
+---
+
+**_Finishing of W3Schools Tutorial_**
+**_Now started learnig from kotlin docs_**
+
+# 19th lesson
+> Collection
+- List
+  - learn about the list how to declare a list with listOf() function.
+  - then how to declare mutable and locked lists that can be editable and read-only.
+  - then lear more list functions like count(), first(), last(), add() and remove().
+  - also learn about in operator to check about values/item available or not.

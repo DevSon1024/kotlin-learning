@@ -1,5 +1,6 @@
-> Kotlin tutorial
+## Beginner
 
+> Kotlin tutorial
 - [x] Kotlin home
 - [x] Kotlin intro
 - [x] Kotlin get started
@@ -26,3 +27,14 @@
 - [x] Kotlin Constructors
 - [x] Kotlin Class Functions
 - [x] Kotlin Inheritance
+---
+## Intermediate
+
+- [] Collection
+  - [x] List
+  - [] Set
+  - [] Map
+- [] Control Flow
+- [] Functions
+- [] Classes
+- [] Null Safety
