@@ -30,10 +30,10 @@
 ---
 ## Intermediate
 
-- [] Collection
+- [x] Collection
   - [x] List
   - [x] Set
-  - [] Map
+  - [x] Map
 - [] Control Flow
 - [] Functions
 - [] Classes

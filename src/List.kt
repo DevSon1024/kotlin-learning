@@ -5,7 +5,7 @@
 // for mutable list we use 'mutableLisOf()' function.
 
 /*
-* when we ceate list, kotlin can infer the type of items strored
+* when we create list, kotlin can infer the type of items stored
 * To declare the type explicitly, we have to add the type within angled brackets (<>) after the lit=st declaration
 * */
 

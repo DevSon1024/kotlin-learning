@@ -150,5 +150,11 @@
   - then lear more list functions like count(), first(), last(), add() and remove().
   - also learn about in operator to check about values/item available or not.
 - Set
-  - it has same functions as List but we cannot access duplicate value in Set
+  - it has same functions as List, but we cannot access duplicate value in Set
   - also we cannot access the items in set as they are unordered.
+- Map
+  - learn how to declare a key-value pair in kotlin using map
+  - create mutable, read-only map and use `to` for giving value to a key
+  - we can access values by adding a key in the index `[]` and simply same way add it as well.
+  - learn remove(), count(), containsKey() functions
+  - then used `keys` and `values` properties after the map variable name to access all keys and values separately
