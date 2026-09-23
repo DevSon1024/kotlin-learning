@@ -1,6 +1,6 @@
 // Inheritance (subclass and superclass)
 
-// we can simply inherit the properties of main or big class to small classes
+// we can simply inherit the properties of ControlFlow.main or big class to small classes
 // with small class's own properties
 
 //there are 2 categories

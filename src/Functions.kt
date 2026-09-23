@@ -4,7 +4,7 @@ fun main(){
     // functions are also known as methods
     // we already using it as
     /*
-    * fun main(){
+    * fun ControlFlow.main(){
     * }
     * */
 

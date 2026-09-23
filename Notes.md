@@ -142,7 +142,7 @@
 **_Finishing of W3Schools Tutorial_**
 **_Now started learnig from kotlin docs_**
 
-# 19th lesson
+## 19th lesson
 > Collection
 - List
   - learn about the list how to declare a list with listOf() function.
@@ -158,3 +158,15 @@
   - we can access values by adding a key in the index `[]` and simply same way add it as well.
   - learn remove(), count(), containsKey() functions
   - then used `keys` and `values` properties after the map variable name to access all keys and values separately
+
+## 20th lesson
+> Control Flow (Advanced condition, range and loop)
+- Conditional expressions:
+  - learn about the advancd if, else and when conditional expressions
+  - where we can use when wihtout subject to check a chain of Boolean and can assign to a variable as well
+- Ranges:
+  - we can create range using `..` operator, which work on numbers and alphabetical characters.
+- Loops:
+  - learn for, while and do-while loop with execution logic for increment and did some practice for the fizz-buzz game
+  - where we have to declare the more specific conditions must come before broader condition especially `num%15 == 0 -> println("fizzbuzz")`.
+  - if we declare the `num%15` syntax at last it will go to first condition which is 3 and print 'fizz' directly without checking the last condition
