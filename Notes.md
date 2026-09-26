@@ -162,11 +162,18 @@
 ## 20th lesson
 > Control Flow (Advanced condition, range and loop)
 - Conditional expressions:
-  - learn about the advancd if, else and when conditional expressions
-  - where we can use when wihtout subject to check a chain of Boolean and can assign to a variable as well
+  - learn about the advanced if, else and when conditional expressions
+  - where we can use when without subject to check a chain of Boolean and can assign to a variable as well
 - Ranges:
   - we can create range using `..` operator, which work on numbers and alphabetical characters.
 - Loops:
   - learn for, while and do-while loop with execution logic for increment and did some practice for the fizz-buzz game
   - where we have to declare the more specific conditions must come before broader condition especially `num%15 == 0 -> println("fizzbuzz")`.
   - if we declare the `num%15` syntax at last it will go to first condition which is 3 and print 'fizz' directly without checking the last condition
+
+## 21th lesson
+> Functions
+- learned about parameters and Named parameters how can we declare them with functions and why they are useful for easy reading.
+- we can define default values for our function's parameters as well if we missed to give any value then the default value will take its place and error can be tackled.
+- learn how to declare function without return and single expression functions to make the code more concise and small but i will not understandable that much
+- 
